@@ -17,6 +17,7 @@ public class BonjourNom {
     public static void main(String[] args) {
         System.out.println("Bonjour Jian Chen!");
         System.out.println("Hello world");
+        System.out.println("This is la version corriger");
     }
     
 }
